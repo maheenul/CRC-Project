@@ -12,5 +12,5 @@ The program has two important features:
 -   Given some information bit of any realistic length it can convert the information bits to CRC encoded bits.
 -   It can check whether any encoded bits are properly encoded.
 
-**Note: This program considers CRC-10 for encoding and decoding. Ensure any binary input to the program are seperated by space.**
+**Note: This program considers CRC-10 for encoding and decoding. Ensure any binary input to the program are separated by space.**
 
